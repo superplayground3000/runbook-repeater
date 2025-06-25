@@ -1,0 +1,7 @@
+{
+  "service_name": "nginx.service",
+  "hostname": "web-prod-01.example.com",
+  "user": "sre-admin",
+  "runbook_id": "ops-20250626-103",
+  "operator_name": "Ada Lovelace"
+}
